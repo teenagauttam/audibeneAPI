@@ -42,7 +42,7 @@ Clone the project from below location:<br />
 git@github.com:teenagauttam/audibeneAPI.git <br />
 
 Go to source folder in local machine<br />
-Automation Demo<br />
+audibeneAPI<br />
 
 Run " mvn test " command in source folder " audibenAPI " from your maven or git bash mvn test
 
